@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[60018,["/audio-stage-landing/_next/static/chunks/3ggv1bbh2v8tj.js","/audio-stage-landing/_next/static/chunks/1ig7-76sl8g0e.js"],"ViewportBoundary"]
+3:I[60018,["/audio-stage-landing/_next/static/chunks/3ggv1bbh2v8tj.js","/audio-stage-landing/_next/static/chunks/1ig7-76sl8g0e.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[90732,["/audio-stage-landing/_next/static/chunks/3ggv1bbh2v8tj.js","/audio-stage-landing/_next/static/chunks/1ig7-76sl8g0e.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cinematic Stage"}],["$","meta","1",{"name":"description","content":"Cinematic audiobooks — real character voices, scene ambience, dynamic music."}],["$","link","2",{"rel":"icon","href":"/audio-stage-landing/wordmark-avatar.svg"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YDm6L5s6VeTIBHJ9gg5E8"}
